@@ -1,0 +1,1 @@
+C:\blat3212\full\blat.exe C:\Alerts\COPSEmailService.txt -to matthewo@4feldco.com -to neilc@4feldco.com -f feldcosystem@4feldco.com -s "COPSEmailService is down" -server 192.168.10.12

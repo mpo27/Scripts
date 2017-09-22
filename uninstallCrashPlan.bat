@@ -1,0 +1,1 @@
+wmic product where name="CrashPlan" call uninstall /nointeractive

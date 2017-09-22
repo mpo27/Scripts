@@ -1,0 +1,57 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADGroup
+name
+Domain Users
+CRM-CallCenter-Executive
+Terminal Server Users
+CRM-CallCenter-Setup-RW
+Remote Access Users
+CRM-Marketing-Setup-RW
+CRM-Accounting-Warranty-RW
+CRM-WebLead-User-RW
+CRM-Marketing-Promo-R
+Web Leads Folder Access
+Call Center Queue Manager
+CRM-Accounting-Cancel-RW
+CRM-Sales-ResAlloc-R
+CRM-CallCenter-Reports-R
+CRM-Accounting-Statement-R
+CRM-Telemarketing-Executive
+CRM-Accounting-AR-RW
+CRM-Telemarketing-Opportunity-RW
+CRM-Marketing-Setup-R
+CRM-CallCenter-Appointments-RW
+CRM-Marketing-Reports-R
+CRM-Telemarketing-Reports-R
+CRM-CallCenter-Survey-R
+CRM-Accounting-PaymentProcessing
+FeldcoLLC
+Managers
+CRM-Accounting-Approve-RW
+CRM-Accounting-ProcessContracts
+CRM-CallCenter-Appointments-R
+CRM-CallCenter-Survey-RW
+CRM-Accounting-Setup-RW
+CRM-Accounting-Reports-R
+CRM-Accounting-AP-R
+SRS-SalesReports-Browser
+CRM-Accounting-Setup-R
+CRM-Marketing-Promo-RW
+HQ Corporate Printer Access
+CRM-WebLead-Manager-RW
+SRS-ExecMgmt
+CRM-Sales-ResAlloc-RW
+Laptop Users
+CRM-Accounting-Executive
+CRM-Accounting-AR-R
+CRM-Marketing-Executive
+CRM-Accounting-AP-RW
+CRM-CallCenter-OppWizard-RW
+CRM-CallCenter-Setup-R
+Accounting-Referrals
+SRS-AdvertisingMgmt
+SRS-Telemarketing
+Call Center
+SRS-Directors
+Marketing Department
+SuperUser (1)
+Marketing (4)

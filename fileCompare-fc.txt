@@ -1,0 +1,227 @@
+Comparing files usersOnNewNAS and USERSNAS
+***** usersOnNewNAS
+
+12/18/2015  06:08 AM    <DIR>          .
+12/08/2015  09:23 AM    <DIR>          ..
+***** USERSNAS
+
+12/21/2015  10:41 AM    <DIR>          .
+12/08/2015  09:23 AM    <DIR>          ..
+*****
+
+***** usersOnNewNAS
+12/14/2015  08:30 AM    <DIR>          barts-16112
+12/09/2015  07:28 AM    <DIR>          billc-13225
+***** USERSNAS
+12/14/2015  08:30 AM    <DIR>          barts-16112
+12/21/2015  08:13 AM    <DIR>          bill.edmundson-16162
+12/09/2015  07:28 AM    <DIR>          billc-13225
+*****
+
+***** usersOnNewNAS
+12/16/2015  06:42 AM    <DIR>          chantelleq-1126
+12/09/2015  03:34 PM    <DIR>          chris.stec-13273
+11/09/2015  02:02 PM    <DIR>          chrisp-16362
+***** USERSNAS
+12/16/2015  06:42 AM    <DIR>          chantelleq-1126
+12/21/2015  07:39 AM    <DIR>          chris.stec-13273
+11/09/2015  02:02 PM    <DIR>          chrisp-16362
+*****
+
+***** usersOnNewNAS
+12/14/2015  07:43 AM    <DIR>          david.king-16247
+12/18/2015  07:39 AM    <DIR>          davidcarbajal-16171
+12/08/2015  12:24 PM    <DIR>          deborahl-8953
+***** USERSNAS
+12/14/2015  07:43 AM    <DIR>          david.king-16247
+12/21/2015  07:57 AM    <DIR>          davidcarbajal-16171
+12/08/2015  12:24 PM    <DIR>          deborahl-8953
+*****
+
+***** usersOnNewNAS
+12/14/2015  07:25 AM    <DIR>          dustinh-16236
+12/17/2015  03:11 PM    <DIR>          edsaba-13310
+12/14/2015  10:07 AM    <DIR>          elizabethhinkley-16267
+***** USERSNAS
+12/14/2015  07:25 AM    <DIR>          dustinh-16236
+12/18/2015  08:57 AM    <DIR>          edsaba-13310
+12/14/2015  10:07 AM    <DIR>          elizabethhinkley-16267
+*****
+
+***** usersOnNewNAS
+12/09/2015  08:41 AM    <DIR>          greg.hudziak-16310
+12/08/2015  10:37 AM    <DIR>          grego-14182
+12/08/2015  10:07 AM    <DIR>          gregs-13350
+***** USERSNAS
+12/09/2015  08:41 AM    <DIR>          greg.hudziak-16310
+12/21/2015  01:17 PM    <DIR>          grego-14182
+12/08/2015  10:07 AM    <DIR>          gregs-13350
+*****
+
+***** usersOnNewNAS
+12/14/2015  11:37 PM    <DIR>          jackptack-7299
+12/08/2015  10:14 AM    <DIR>          jamesd-16160
+12/09/2015  02:50 PM    <DIR>          jamesptak-8796
+***** USERSNAS
+12/14/2015  11:37 PM    <DIR>          jackptack-7299
+12/20/2015  01:26 PM    <DIR>          jacobb-14180
+12/21/2015  07:48 AM    <DIR>          jamesd-16160
+12/09/2015  02:50 PM    <DIR>          jamesptak-8796
+*****
+
+***** usersOnNewNAS
+12/08/2015  09:29 AM    <DIR>          jeff.behnke-14186
+12/09/2015  08:46 AM    <DIR>          jimh-1242
+***** USERSNAS
+12/08/2015  09:29 AM    <DIR>          jeff.behnke-14186
+12/21/2015  10:41 AM    <DIR>          jerryschmidt-16266
+12/09/2015  08:46 AM    <DIR>          jimh-1242
+*****
+
+***** usersOnNewNAS
+12/12/2015  08:45 AM    <DIR>          joanns-3631
+12/18/2015  06:08 AM    <DIR>          joe.comiano-13317
+12/17/2015  04:13 PM    <DIR>          joel.cooper-13341
+***** USERSNAS
+12/12/2015  08:45 AM    <DIR>          joanns-3631
+12/21/2015  08:50 AM    <DIR>          joe.comiano-13317
+12/17/2015  04:13 PM    <DIR>          joel.cooper-13341
+*****
+
+***** usersOnNewNAS
+12/14/2015  08:39 AM    <DIR>          johnquintana-7808
+12/16/2015  08:42 AM    <DIR>          johns-8819
+12/16/2015  01:12 PM    <DIR>          joshw-12631
+***** USERSNAS
+12/14/2015  08:39 AM    <DIR>          johnquintana-7808
+12/19/2015  11:11 AM    <DIR>          johns-8819
+12/16/2015  01:12 PM    <DIR>          joshw-12631
+*****
+
+***** usersOnNewNAS
+12/08/2015  04:13 PM    <DIR>          kathleenb-14166
+12/18/2015  07:58 AM    <DIR>          kathyf-1187
+12/10/2015  10:46 AM    <DIR>          kellybriggs-7832
+***** USERSNAS
+12/08/2015  04:13 PM    <DIR>          kathleenb-14166
+12/21/2015  10:19 AM    <DIR>          kathyf-1187
+12/10/2015  10:46 AM    <DIR>          kellybriggs-7832
+*****
+
+***** usersOnNewNAS
+12/12/2015  09:22 AM    <DIR>          lindab-8820
+12/17/2015  01:15 PM    <DIR>          lizm-9029
+12/16/2015  09:08 AM    <DIR>          marcusdaily-7512
+12/08/2015  09:59 AM    <DIR>          marcyk-1137
+12/14/2015  08:22 AM    <DIR>          marilynb-9099
+12/08/2015  11:00 AM    <DIR>          matt.slaaen-10182
+12/17/2015  09:49 AM    <DIR>          matthewo-16241
+12/09/2015  12:36 PM    <DIR>          matthewt-16263
+12/08/2015  08:53 AM    <DIR>          michaelcheek-8945
+***** USERSNAS
+12/12/2015  09:22 AM    <DIR>          lindab-8820
+12/21/2015  09:35 AM    <DIR>          lizm-9029
+12/21/2015  09:24 AM    <DIR>          marcusdaily-7512
+12/08/2015  09:59 AM    <DIR>          marcyk-1137
+12/18/2015  01:27 PM    <DIR>          marilynb-9099
+12/08/2015  11:00 AM    <DIR>          matt.slaaen-10182
+12/21/2015  10:22 AM    <DIR>          matthewo-16241
+12/09/2015  12:36 PM    <DIR>          matthewt-16263
+12/21/2015  08:32 AM    <DIR>          michael.weingartz-14163
+12/08/2015  08:53 AM    <DIR>          michaelcheek-8945
+*****
+
+***** usersOnNewNAS
+12/15/2015  09:15 AM    <DIR>          michaelromnek-9079
+12/14/2015  12:27 PM    <DIR>          michaelsands-9077
+12/08/2015  01:13 PM    <DIR>          michellej-13272
+***** USERSNAS
+12/15/2015  09:15 AM    <DIR>          michaelromnek-9079
+12/21/2015  11:57 AM    <DIR>          michaelsands-9077
+12/08/2015  01:13 PM    <DIR>          michellej-13272
+*****
+
+***** usersOnNewNAS
+12/08/2015  11:01 AM    <DIR>          nickf-10166
+12/16/2015  05:54 AM    <DIR>          nitook-16214
+12/08/2015  01:49 PM    <DIR>          osvaldol-16333
+***** USERSNAS
+12/08/2015  11:01 AM    <DIR>          nickf-10166
+12/21/2015  09:15 AM    <DIR>          nitook-16214
+12/08/2015  01:49 PM    <DIR>          osvaldol-16333
+*****
+
+***** usersOnNewNAS
+12/08/2015  04:55 PM    <DIR>          patriceh-16210
+12/10/2015  08:31 AM    <DIR>          patrick.mcconnell-16257
+12/14/2015  06:46 AM    <DIR>          patrick.zeiss-16205
+***** USERSNAS
+12/08/2015  04:55 PM    <DIR>          patriceh-16210
+12/18/2015  09:11 AM    <DIR>          patrick.mcconnell-16257
+12/14/2015  06:46 AM    <DIR>          patrick.zeiss-16205
+*****
+
+***** usersOnNewNAS
+12/13/2015  12:28 PM    <DIR>          pbenton_admin-10163
+12/14/2015  11:55 AM    <DIR>          petermetcalf-7887
+12/11/2015  05:30 AM    <DIR>          peterpontarelli-9088
+***** USERSNAS
+12/13/2015  12:28 PM    <DIR>          pbenton_admin-10163
+12/18/2015  08:40 AM    <DIR>          peterl-8803
+12/21/2015  11:23 AM    <DIR>          petermetcalf-7887
+12/11/2015  05:30 AM    <DIR>          peterpontarelli-9088
+*****
+
+***** usersOnNewNAS
+12/11/2015  04:24 PM    <DIR>          shari.evans-7846
+12/17/2015  09:50 AM    <DIR>          steve.nosek-16279
+***** USERSNAS
+12/11/2015  04:24 PM    <DIR>          shari.evans-7846
+12/20/2015  09:03 AM    <DIR>          smac_admin-10162
+12/17/2015  09:50 AM    <DIR>          steve.nosek-16279
+*****
+
+***** usersOnNewNAS
+12/08/2015  05:00 PM    <DIR>          stevene-16271
+12/08/2015  11:03 AM    <DIR>          swapnam-16190
+12/16/2015  08:48 AM    <DIR>          telam-4091
+***** USERSNAS
+12/08/2015  05:00 PM    <DIR>          stevene-16271
+12/21/2015  09:14 AM    <DIR>          swapnam-16190
+12/16/2015  08:48 AM    <DIR>          telam-4091
+*****
+
+***** usersOnNewNAS
+12/09/2015  04:11 PM    <DIR>          timo-13342
+12/16/2015  04:13 PM    <DIR>          timothym-8694
+12/15/2015  03:41 PM    <DIR>          timothys-13258
+***** USERSNAS
+12/09/2015  04:11 PM    <DIR>          timo-13342
+12/19/2015  08:57 AM    <DIR>          timothym-8694
+12/15/2015  03:41 PM    <DIR>          timothys-13258
+*****
+
+***** usersOnNewNAS
+12/08/2015  12:41 PM    <DIR>          tomtomaszewski-7987
+12/18/2015  07:48 AM    <DIR>          tonyp-10127
+12/10/2015  11:19 AM    <DIR>          traceya-7111
+***** USERSNAS
+12/08/2015  12:41 PM    <DIR>          tomtomaszewski-7987
+12/18/2015  11:05 AM    <DIR>          tonyp-10127
+12/10/2015  11:19 AM    <DIR>          traceya-7111
+*****
+
+***** usersOnNewNAS
+               0 File(s)              0 bytes
+             149 Dir(s)  4,675,421,925,376 bytes free
+***** USERSNAS
+               0 File(s)              0 bytes
+             155 Dir(s)  4,672,692,715,520 bytes free
+
+ Volume in drive C has no label.
+ Volume Serial Number is D402-9509
+
+ Directory of C:\Users\administrator
+
+*****
+
