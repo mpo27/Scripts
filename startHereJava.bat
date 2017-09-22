@@ -1,0 +1,1 @@
+runas /user:feldcosbs\ta \\srv-nas-01\telemarketing\skunkworks\files\javainstall.bat
