@@ -1,1 +1,1 @@
-msiexec /i \\srv-nas-01\technology\software\msi\wsasme.msi GUILIC=SAC6-ENTP-B4B5-4EF9-8659 CMDLINE=SME,quiet /qn /l*v install.log
+msiexec /i t:\software\MSI\wsasme.msi GUILIC=SAFB-ENTP-47CB-3332-7663 CMDLINE=SME,quiet /qn /l*v install.log
